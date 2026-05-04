@@ -81,9 +81,17 @@ def field(label: str, value: str) -> str:
     )
 
 
+CASE_FIELDS = {
+    "country": str.title,
+    "city": str.title,
+    "contact": str.title,
+}
+
+
 def render_producer(producer: dict) -> str:
     pid = producer.get("id")
-    name = html.escape(producer.get("name") or f"Productor {pid}")
+    raw_name = producer.get("name") or f"Productor {pid}"
+    name = html.escape(raw_name.upper())
     parcels = producer.get("parcels") or []
 
     fields = []
@@ -92,7 +100,9 @@ def render_producer(producer: dict) -> str:
     for key, label in [("country", "País"), ("city", "Ciudad"), ("contact", "Contacto")]:
         v = producer.get(key)
         if v:
-            fields.append(field(label, html.escape(str(v))))
+            transform = CASE_FIELDS.get(key)
+            display = transform(str(v)) if transform else str(v)
+            fields.append(field(label, html.escape(display)))
     email = producer.get("email")
     if email:
         e = html.escape(str(email))
