@@ -4,7 +4,9 @@ from __future__ import annotations
 
 import html
 import json
+import re
 import sys
+import unicodedata
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -12,21 +14,25 @@ PRODUCERS_DIR = REPO_ROOT / "data" / "spg" / "producers"
 OUT_DIR = REPO_ROOT / "site"
 OUT_FILE = OUT_DIR / "index.html"
 
-PARCEL_COLUMNS = [
+PRODUCT_COLUMNS = [
     ("product", "Producto"),
     ("variety", "Variedad"),
+    ("parcel_count", "Parcelas"),
     ("surface", "Superficie"),
     ("production", "Producción"),
+    ("season", "Temporada"),
     ("market", "Mercado"),
     ("observations", "Observaciones"),
 ]
 
-
-def combined(value, unit) -> str:
-    base = fmt(value)
-    if unit is None or unit == "" or base == "—":
-        return base
-    return f"{base} {unit}"
+UNIT_SYNONYMS = {
+    "kilo": "kg", "kilos": "kg", "kg": "kg",
+    "ha": "ha", "há": "ha", "hectarea": "ha", "hectáreas": "ha", "hectareas": "ha",
+    "planta": "plantas", "plantas": "plantas",
+    "arbol": "árboles", "arboles": "árboles", "árbol": "árboles", "árboles": "árboles",
+    "arbusto": "arbustos", "arbustos": "arbustos",
+    "unidad": "un", "unidades": "un", "un": "un",
+}
 
 
 def fmt(value) -> str:
@@ -39,6 +45,113 @@ def fmt(value) -> str:
     return str(value)
 
 
+def fmt_num(n: float) -> str:
+    if n == int(n):
+        return str(int(n))
+    return f"{n:g}"
+
+
+def normalize_unit(raw: str) -> tuple[str, str]:
+    """Return (canonical_key, display_label) for a unit string."""
+    cleaned = (raw or "").strip().lower()
+    if not cleaned:
+        return "", ""
+    canon = UNIT_SYNONYMS.get(cleaned, cleaned)
+    return canon, canon
+
+
+def parse_qty(value) -> tuple[float | None, str]:
+    """Parse a quantity. Returns (number, unit_string) or (None, original_text)."""
+    if value is None or value == "":
+        return None, ""
+    if isinstance(value, (int, float)):
+        return float(value), ""
+    s = str(value).strip()
+    m = re.match(r"^(\d+(?:[.,]\d+)?)\s*(.*)$", s)
+    if not m:
+        return None, s
+    num_str, rest = m.group(1), m.group(2).strip()
+    if not _unit_safe(rest):
+        return None, s
+    try:
+        return float(num_str.replace(",", ".")), rest
+    except ValueError:
+        return None, s
+
+
+def _unit_safe(rest: str) -> bool:
+    if not rest:
+        return True
+    for tok in rest.split():
+        if re.fullmatch(r"\d+", tok):
+            return False  # bare number — likely a dimension like "5 x 100"
+        if re.fullmatch(r"x\d*", tok, re.IGNORECASE):
+            return False
+        if not re.fullmatch(r"[a-zA-Záéíóúñ0-9]+", tok):
+            return False
+    return True
+
+
+def aggregate_qty(values) -> str:
+    """Sum parseable numeric quantities by unit; list the rest verbatim."""
+    by_unit: dict[str, list] = {}
+    raw: list[str] = []
+    for v in values:
+        if v is None or v == "":
+            continue
+        num, unit = parse_qty(v)
+        if num is None:
+            raw.append(unit)
+            continue
+        key, label = normalize_unit(unit)
+        slot = by_unit.setdefault(key, [label, 0.0])
+        slot[1] += num
+    parts = [f"{fmt_num(total)} {label}".strip() for label, total in by_unit.values()]
+    if raw:
+        parts.append("(" + ", ".join(raw) + ")" if parts else ", ".join(raw))
+    return ", ".join(parts) if parts else ""
+
+
+def _distinct(values) -> list[str]:
+    seen: dict[str, None] = {}
+    for v in values:
+        if v is None:
+            continue
+        s = str(v).strip()
+        if not s:
+            continue
+        seen.setdefault(s, None)
+    return list(seen.keys())
+
+
+def aggregate_by_product(parcels: list[dict]) -> list[dict]:
+    groups: dict[str, list[dict]] = {}
+    for parcel in parcels:
+        key = (parcel.get("product") or "").strip().lower() or "—"
+        groups.setdefault(key, []).append(parcel)
+
+    rows = []
+    for items in groups.values():
+        product = next((it["product"] for it in items if it.get("product")), "—")
+        rows.append({
+            "product": product,
+            "variety": ", ".join(_distinct(it.get("variety") for it in items)),
+            "parcel_count": len(items),
+            "surface": aggregate_qty(it.get("surface") for it in items),
+            "production": aggregate_qty(it.get("production") for it in items),
+            "season": ", ".join(_distinct(it.get("production_unit") for it in items)),
+            "market": ", ".join(_distinct(it.get("market") for it in items)),
+            "observations": "; ".join(_distinct(it.get("observations") for it in items)),
+        })
+    rows.sort(key=lambda r: _sort_key(r["product"]))
+    return rows
+
+
+def _sort_key(s: str) -> str:
+    decomposed = unicodedata.normalize("NFKD", s.lower())
+    return "".join(ch for ch in decomposed if not unicodedata.combining(ch))
+
+
 def load_producers() -> list[dict]:
     producers = []
     for path in sorted(PRODUCERS_DIR.glob("*.json")):
@@ -48,26 +161,23 @@ def load_producers() -> list[dict]:
     return producers
 
 
-def render_parcels(parcels: list[dict]) -> str:
+def render_products(parcels: list[dict]) -> str:
     if not parcels:
         return '<p class="empty">Sin parcelas registradas.</p>'
-    head = "".join(f"<th>{html.escape(label)}</th>" for _, label in PARCEL_COLUMNS)
-    rows = []
-    for parcel in parcels:
+    rows_data = aggregate_by_product(parcels)
+    head = "".join(f"<th>{html.escape(label)}</th>" for _, label in PRODUCT_COLUMNS)
+    body_rows = []
+    for row in rows_data:
         cells = []
-        for key, _ in PARCEL_COLUMNS:
-            if key == "surface":
-                text = combined(parcel.get("surface"), parcel.get("surface_unit"))
-            elif key == "production":
-                text = combined(parcel.get("production"), parcel.get("production_unit"))
-            else:
-                text = fmt(parcel.get(key))
+        for key, _ in PRODUCT_COLUMNS:
+            value = row.get(key)
+            text = fmt(value) if value not in (None, "") else "—"
             cells.append(f"<td>{html.escape(text)}</td>")
-        rows.append(f"<tr>{''.join(cells)}</tr>")
+        body_rows.append(f"<tr>{''.join(cells)}</tr>")
     return (
         '<div class="table-wrap"><table>'
         f"<thead><tr>{head}</tr></thead>"
-        f"<tbody>{''.join(rows)}</tbody>"
+        f"<tbody>{''.join(body_rows)}</tbody>"
         "</table></div>"
     )
 
@@ -116,7 +226,8 @@ def render_producer(producer: dict) -> str:
         v = producer.get(key)
         if v:
             fields.append(field(label, html.escape(str(v))))
-    fields.append(field("Parcelas", str(len(parcels))))
+    product_count = len({(p.get("product") or "").strip().lower() for p in parcels if p.get("product")})
+    fields.append(field("Productos", str(product_count)))
 
     return (
         '<details class="producer">'
@@ -125,7 +236,7 @@ def render_producer(producer: dict) -> str:
         f'<div class="fields">{"".join(fields)}</div>'
         '</summary>'
         '<div class="body">'
-        f"{render_parcels(parcels)}"
+        f"{render_products(parcels)}"
         "</div>"
         "</details>"
     )
@@ -224,7 +335,7 @@ HTML_TEMPLATE = """<!doctype html>
 <body>
 <main>
   <h1>Productores SPG</h1>
-  <p class="lede">{count} productores · {parcel_count} parcelas. Hace clic en un productor para ver sus parcelas.</p>
+  <p class="lede">{count} productores · {product_count} productos · {parcel_count} parcelas. Hace clic en un productor para ver sus productos.</p>
   <div class="controls">
     <input type="search" id="filter" placeholder="Filtrar por nombre, ciudad o producto…" autocomplete="off">
   </div>
@@ -261,17 +372,26 @@ def main() -> int:
 
     rendered = "\n".join(render_producer(p) for p in producers)
     parcel_count = sum(len(p.get("parcels") or []) for p in producers)
+    product_count = sum(
+        len({(parcel.get("product") or "").strip().lower()
+             for parcel in (p.get("parcels") or []) if parcel.get("product")})
+        for p in producers
+    )
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(
         HTML_TEMPLATE.format(
             count=len(producers),
+            product_count=product_count,
             parcel_count=parcel_count,
             producers=rendered,
         ),
         encoding="utf-8",
     )
-    print(f"Wrote {OUT_FILE} ({len(producers)} producers, {parcel_count} parcels)")
+    print(
+        f"Wrote {OUT_FILE} ({len(producers)} producers, "
+        f"{product_count} products, {parcel_count} parcels)"
+    )
     return 0
 
 
