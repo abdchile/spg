@@ -6,10 +6,10 @@
   "contact": "ROSITA SALINAS",
   "whatsapp": "56990436406",
   "email": "rosita@buencampo.cl",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "En transicion",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Acedera",
       "variety": null,
       "surface": 60,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Acelga",
       "variety": "Crespa ,lisa y colores",
       "surface": 100,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Ají",
       "variety": "Cristal, americano",
       "surface": 100,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pradera trébol/ballica",
       "variety": null,
       "surface": 800,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Betarraga hojas",
       "variety": null,
       "surface": 50,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Cilantro",
       "variety": "Santos",
       "surface": 240,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Cibulette",
       "variety": null,
       "surface": 50,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Frutillas",
       "variety": "Camara rosa,",
       "surface": 560,
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Floresde corte Aster",
       "variety": null,
       "surface": 50,
@@ -116,8 +100,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores de corte Celosia",
       "variety": null,
       "surface": 50,
@@ -128,8 +110,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores fde corte clavelinas",
       "variety": null,
       "surface": 200,
@@ -140,8 +120,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores de corte Crisantemo",
       "variety": null,
       "surface": 100,
@@ -152,8 +130,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores de corte Gradiolos",
       "variety": null,
       "surface": 100,
@@ -164,8 +140,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Floresde corte Marble",
       "variety": null,
       "surface": 100,
@@ -176,8 +150,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores de corte Narcisos",
       "variety": null,
       "surface": 10,
@@ -188,8 +160,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores de corte Statice",
       "variety": null,
       "surface": 10,
@@ -200,8 +170,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Lufa",
       "variety": null,
       "surface": 100,
@@ -212,8 +180,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Menta",
       "variety": null,
       "surface": 150,
@@ -224,8 +190,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Kale",
       "variety": null,
       "surface": 200,
@@ -236,8 +200,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Mizuna",
       "variety": null,
       "surface": 60,
@@ -248,8 +210,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pepino de Invernadero",
       "variety": null,
       "surface": 400,
@@ -260,8 +220,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Perejil",
       "variety": null,
       "surface": 100,
@@ -272,8 +230,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pimentón Invernadero",
       "variety": null,
       "surface": 100,
@@ -284,8 +240,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Rábanito",
       "variety": "ruby",
       "surface": 240,
@@ -296,8 +250,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Rúcula",
       "variety": "rustica,",
       "surface": 400,
@@ -308,8 +260,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Tatsoi",
       "variety": null,
       "surface": 60,
@@ -320,8 +270,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Tomate Invernadero",
       "variety": null,
       "surface": 650,
@@ -332,8 +280,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Tomate Cherry",
       "variety": null,
       "surface": 100,
@@ -344,8 +290,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zapallito italiano",
       "variety": "ercules",
       "surface": 200,
@@ -356,8 +300,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Cereza",
       "variety": null,
       "surface": 3500,
@@ -368,8 +310,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Cedrón",
       "variety": null,
       "surface": null,
@@ -380,8 +320,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Ciruela silvestres",
       "variety": null,
       "surface": null,
@@ -392,8 +330,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Ciruela",
       "variety": null,
       "surface": null,
@@ -404,8 +340,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Damasco",
       "variety": null,
       "surface": null,
@@ -416,8 +350,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Durazno",
       "variety": null,
       "surface": null,
@@ -428,8 +360,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Granada",
       "variety": null,
       "surface": null,
@@ -440,8 +370,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Laurel",
       "variety": null,
       "surface": null,
@@ -452,8 +380,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Limón",
       "variety": null,
       "surface": null,
@@ -464,8 +390,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Mandarina",
       "variety": null,
       "surface": null,
@@ -476,8 +400,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Manzana",
       "variety": null,
       "surface": null,
@@ -488,8 +410,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Membrillo",
       "variety": null,
       "surface": null,
@@ -500,8 +420,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Naranja",
       "variety": null,
       "surface": null,
@@ -512,8 +430,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Nogal",
       "variety": null,
       "surface": null,
@@ -524,8 +440,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Olivo",
       "variety": null,
       "surface": null,
@@ -536,8 +450,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Palto",
       "variety": null,
       "surface": null,
@@ -548,8 +460,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pera",
       "variety": null,
       "surface": null,
@@ -560,8 +470,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pomelo",
       "variety": null,
       "surface": null,
@@ -572,8 +480,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Borraja flor",
       "variety": null,
       "surface": 50,
@@ -584,8 +490,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Tomillo fresco y/o seco",
       "variety": null,
       "surface": 100,
@@ -596,8 +500,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Acelga",
       "variety": "Crespa ,lisa y colores",
       "surface": 500,
@@ -608,8 +510,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Achicoria",
       "variety": null,
       "surface": 100,
@@ -620,8 +520,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Ají",
       "variety": "cristal, americano, cacho de cabra",
       "surface": 70,
@@ -632,8 +530,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Albahaca",
       "variety": "chilena",
       "surface": 100,
@@ -644,8 +540,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Arvejas",
       "variety": "arverjon",
       "surface": 500,
@@ -656,8 +550,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Apio",
       "variety": null,
       "surface": 900,
@@ -668,8 +560,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Berenjena",
       "variety": null,
       "surface": 300,
@@ -680,8 +570,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Brócoli",
       "variety": null,
       "surface": 1700,
@@ -692,8 +580,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Cebollín blanco",
       "variety": null,
       "surface": 200,
@@ -704,8 +590,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Coliflor",
       "variety": null,
       "surface": 600,
@@ -716,8 +600,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Espinaca",
       "variety": null,
       "surface": 400,
@@ -728,8 +610,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Frambuesas",
       "variety": null,
       "surface": 900,
@@ -740,8 +620,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Garbanzo",
       "variety": null,
       "surface": 600,
@@ -752,8 +630,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Habas",
       "variety": "Agua dulce y luz de Otoño",
       "surface": 200,
@@ -764,8 +640,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Lechuga",
       "variety": "Marinas, costina,francesas, españolas.",
       "surface": 1200,
@@ -776,8 +650,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Kale",
       "variety": "crespo, toscano, russian, lizo",
       "surface": 350,
@@ -788,8 +660,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "choclo",
       "variety": "graciela",
       "surface": 800,
@@ -800,8 +670,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Choclo dulce",
       "variety": null,
       "surface": 400,
@@ -812,8 +680,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Maní",
       "variety": "valencia",
       "surface": 560,
@@ -824,8 +690,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Maíz curagua",
       "variety": null,
       "surface": 50,
@@ -836,8 +700,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Poroto mum",
       "variety": "Mun",
       "surface": 700,
@@ -848,8 +710,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pimenton",
       "variety": null,
       "surface": 70,
@@ -860,8 +720,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Puerro",
       "variety": null,
       "surface": 140,
@@ -872,8 +730,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Rabanito",
       "variety": null,
       "surface": 140,
@@ -884,8 +740,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Repollo crespo",
       "variety": null,
       "surface": 1200,
@@ -896,8 +750,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Repollo liso",
       "variety": "corazon de buey, redondo",
       "surface": 1200,
@@ -908,8 +760,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Repollo morado",
       "variety": null,
       "surface": 800,
@@ -920,8 +770,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Flores calendula",
       "variety": null,
       "surface": 70,
@@ -932,8 +780,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Tomate",
       "variety": null,
       "surface": 1000,
@@ -944,8 +790,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Tomate Salsero",
       "variety": null,
       "surface": 500,
@@ -956,8 +800,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zapallo baternut",
       "variety": null,
       "surface": 1000,
@@ -968,8 +810,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zapallo naranja",
       "variety": null,
       "surface": 500,
@@ -980,8 +820,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zapallo camote",
       "variety": null,
       "surface": 1500,
@@ -992,8 +830,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Limón",
       "variety": null,
       "surface": null,
@@ -1004,8 +840,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Parras",
       "variety": "Pais",
       "surface": null,
@@ -1016,8 +850,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Paltos",
       "variety": "palta chilena",
       "surface": null,
@@ -1028,8 +860,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "PAlfalfa",
       "variety": null,
       "surface": 2500,
@@ -1040,8 +870,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Acelga",
       "variety": "penca blanca",
       "surface": 1200,
@@ -1052,8 +880,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Betarraga",
       "variety": "chata egipto",
       "surface": 500,
@@ -1064,8 +890,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Arveja",
       "variety": null,
       "surface": 240,
@@ -1076,8 +900,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Cilantro",
       "variety": null,
       "surface": 150,
@@ -1088,8 +910,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Kale",
       "variety": "russian",
       "surface": 300,
@@ -1100,8 +920,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Lechuga",
       "variety": null,
       "surface": 1000,
@@ -1112,8 +930,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Haba",
       "variety": "Agua Dulce",
       "surface": 5000,
@@ -1124,8 +940,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Papa",
       "variety": null,
       "surface": 1300,
@@ -1136,8 +950,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Pepino ensalada",
       "variety": "Marketmore",
       "surface": 600,
@@ -1148,8 +960,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zanahoria",
       "variety": null,
       "surface": 700,
@@ -1160,8 +970,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Choclos",
       "variety": null,
       "surface": 2000,
@@ -1172,8 +980,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zapallito Italiano",
       "variety": null,
       "surface": 1000,

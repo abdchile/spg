@@ -6,10 +6,10 @@
   "contact": "PAULA QUINCHEL",
   "whatsapp": "5694209 1333",
   "email": "paula.quinchel@gmail.com",
+  "organic_certification": "TRANSICION",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Maqui",
       "variety": "2 ha",
       "surface": 3000,

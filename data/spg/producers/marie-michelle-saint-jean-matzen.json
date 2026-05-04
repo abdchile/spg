@@ -6,10 +6,10 @@
   "contact": "MICHELLE SAINT-JEAN",
   "whatsapp": "56 9 9879 8266",
   "email": "kuykuyalmacen@gmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "ALFAJORES",
       "variety": null,
       "surface": null,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "ALMENDRAS NATURALES",
       "variety": null,
       "surface": null,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "ALMENDRAS TOSTADAS",
       "variety": null,
       "surface": null,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "BROWNIES/BLONDIES",
       "variety": null,
       "surface": null,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "BERENJENAS ASADAS",
       "variety": null,
       "surface": null,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "BOMBÓN MAZAPÁN",
       "variety": null,
       "surface": null,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "CAFÉ EN GRANO VARIEDADES",
       "variety": null,
       "surface": null,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "CREMA DE ZAPALLO BUTTER",
       "variety": null,
       "surface": null,
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "CRUMBLE DE MANZANA",
       "variety": null,
       "surface": null,
@@ -116,8 +100,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "DULCE DE PERA",
       "variety": null,
       "surface": null,
@@ -128,8 +110,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "GALLETAS DE ALMENDRAS",
       "variety": null,
       "surface": null,
@@ -140,8 +120,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "GALLETAS DE JENGIBRE",
       "variety": null,
       "surface": null,
@@ -152,8 +130,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "JUGO DE MANZANA",
       "variety": null,
       "surface": null,
@@ -164,8 +140,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "INFUSIONES CALIENTES",
       "variety": null,
       "surface": null,
@@ -176,8 +150,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "MANTEQUILLA DE ALMENDRAS",
       "variety": null,
       "surface": null,
@@ -188,8 +160,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "MERENGUITOS",
       "variety": null,
       "surface": null,
@@ -200,8 +170,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "MERMELADA DE CIRUELAS",
       "variety": null,
       "surface": null,
@@ -212,8 +180,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "MERMELADA DE DAMASCO",
       "variety": null,
       "surface": null,
@@ -224,8 +190,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "MERMELADA DE FRUTILLA",
       "variety": null,
       "surface": null,
@@ -236,8 +200,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "MERMELADA DE MORA",
       "variety": null,
       "surface": null,
@@ -248,8 +210,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "PAN DE MOLDE",
       "variety": null,
       "surface": null,
@@ -260,8 +220,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "PIMIENTOS ASADOS",
       "variety": null,
       "surface": null,
@@ -272,8 +230,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "QUEQUE DE MIEL",
       "variety": null,
       "surface": null,
@@ -284,8 +240,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "QUEQUE DE LIMÓN",
       "variety": null,
       "surface": null,
@@ -296,8 +250,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "QUEQUE DE ZANAHORIA",
       "variety": null,
       "surface": null,
@@ -308,8 +260,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "TARTA DE SANTIAGO",
       "variety": null,
       "surface": null,
@@ -320,8 +270,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "TÉ MATCHA VARIEDADES",
       "variety": null,
       "surface": null,
@@ -332,8 +280,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "sin certificacion BD",
       "product": "TURRÓN DE ALMENDRAS",
       "variety": null,
       "surface": null,

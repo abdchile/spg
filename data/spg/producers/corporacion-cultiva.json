@@ -6,10 +6,10 @@
   "contact": "JULIEN YTIER",
   "whatsapp": "56 9 4042 7516",
   "email": "julienytier@cultiva.cl",
+  "organic_certification": "TRANSICION",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Algarrobo",
       "variety": "Prosopis chilensis/alba",
       "surface": null,
@@ -20,8 +20,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Arrayán",
       "variety": "Luma apiculata",
       "surface": null,
@@ -32,8 +30,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Boldo",
       "variety": "Peumus boldus",
       "surface": null,
@@ -44,8 +40,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Canelo",
       "variety": "Drimys winteri",
       "surface": null,
@@ -56,8 +50,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Chañar",
       "variety": "Geoffroea decorticans",
       "surface": null,
@@ -68,8 +60,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Colliguay",
       "variety": "Colliguaja integerrima",
       "surface": null,
@@ -80,8 +70,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Espino",
       "variety": "Acacia caven",
       "surface": null,
@@ -92,8 +80,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Guindilla",
       "variety": "Guindilia trinervis",
       "surface": null,
@@ -104,8 +90,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Huingán",
       "variety": "Schinus polygamus",
       "surface": null,
@@ -116,8 +100,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Lingue",
       "variety": "Persea lingue",
       "surface": null,
@@ -128,8 +110,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Litre",
       "variety": "Lithraea caustica",
       "surface": null,
@@ -140,8 +120,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Maitén",
       "variety": "Maytenus Boaria",
       "surface": null,
@@ -152,8 +130,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Maqui",
       "variety": "Aristotelia chilensis",
       "surface": null,
@@ -164,8 +140,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Molle",
       "variety": "Schinus Latifolius",
       "surface": null,
@@ -176,8 +150,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Patagua",
       "variety": "Crinodendron patagua",
       "surface": null,
@@ -188,8 +160,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Peumo",
       "variety": "Cryptocarya Alba",
       "surface": null,
@@ -200,8 +170,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Pimiento",
       "variety": "Schinus molle",
       "surface": null,
@@ -212,8 +180,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Quebracho",
       "variety": "Senna candolleana",
       "surface": null,
@@ -224,8 +190,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Quillay",
       "variety": "Quillaja saponaria",
       "surface": null,
@@ -236,8 +200,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Romerillo",
       "variety": "Baccharis linearis",
       "surface": null,
@@ -248,8 +210,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Tara",
       "variety": "Caesalpinia spinosa",
       "surface": null,
@@ -260,8 +220,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Araucarias",
       "variety": "Araucaria araucana",
       "surface": null,
@@ -272,8 +230,6 @@
       "observations": "VIVERO ARBOLES NATIVOS"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Especies para crecimiento",
       "variety": "Especies para crecimiento",
       "surface": null,

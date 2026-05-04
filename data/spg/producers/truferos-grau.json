@@ -6,10 +6,10 @@
   "contact": "Jordi Grau",
   "whatsapp": "56997016562",
   "email": "jordi.grau@truferosgrau.cl",
+  "organic_certification": "TRANSICION",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Trufas",
       "variety": null,
       "surface": 10,

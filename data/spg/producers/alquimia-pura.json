@@ -6,10 +6,10 @@
   "contact": "Claudia Porzio",
   "whatsapp": "56998025055",
   "email": "claudiaporzio@gmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "DEMETER - BD",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Cedron",
       "variety": "Alosya citrodora",
       "surface": null,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Geranio",
       "variety": "Pelargonium Graveolens",
       "surface": null,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Geranio",
       "variety": "Pelargonium Asperum",
       "surface": null,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Lavanda",
       "variety": "Lavandula Angustifolia",
       "surface": null,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Lavanda",
       "variety": "Lavandula Stoechas",
       "surface": null,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Lavandin",
       "variety": "Lavandin grosso",
       "surface": null,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Lemon grass",
       "variety": "Cymbopogon",
       "surface": null,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Romero",
       "variety": "Rosmarinus officinalis",
       "surface": null,
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Romero",
       "variety": "Rosmarinus primley blue",
       "surface": null,
@@ -116,8 +100,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Rosa",
       "variety": "Rosa Damascena",
       "surface": null,
@@ -128,8 +110,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Salvia",
       "variety": "Salvia Officinalis",
       "surface": null,
@@ -140,8 +120,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Tomillo",
       "variety": "Thymus vulgaris",
       "surface": null,
@@ -152,8 +130,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Vetiver",
       "variety": "Chrysopogon zizanioides",
       "surface": null,
@@ -164,8 +140,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Menta",
       "variety": "Piperita",
       "surface": null,
@@ -176,8 +150,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Menta",
       "variety": "Blanca Me",
       "surface": null,
@@ -188,8 +160,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Poleo",
       "variety": "Mentha pulegium",
       "surface": null,
@@ -200,8 +170,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Melisa",
       "variety": null,
       "surface": null,
@@ -212,8 +180,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Albahaca",
       "variety": null,
       "surface": null,

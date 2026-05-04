@@ -26,11 +26,11 @@ PRODUCER_COLUMNS = {
     "E": "contact",
     "F": "whatsapp",
     "G": "email",
+    "H": "organic_certification",
+    "I": "bd_certification",
 }
 
 FIELD_COLUMNS = [
-    ("H", "organic_certification", "string"),
-    ("I", "bd_certification", "string"),
     ("J", "product", "string"),
     ("K", "variety", "string"),
     ("L", "surface", "number"),

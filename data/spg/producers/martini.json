@@ -6,10 +6,10 @@
   "contact": "Patricio Martini",
   "whatsapp": "56993219778",
   "email": "elaihue@gmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "DEMETER - BD",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Arándanos",
       "variety": null,
       "surface": 25.689999999999998,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Plantas medicinales",
       "variety": null,
       "surface": 2.9,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Bosque nativo",
       "variety": null,
       "surface": 2,

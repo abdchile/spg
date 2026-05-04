@@ -6,10 +6,10 @@
   "contact": "LETICIA CRUZ",
   "whatsapp": "56 9 9739 6086",
   "email": "lc.bayasdelsur@gmail.com",
+  "organic_certification": "TRANSICION",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Achicoria: Cichorium Intybus",
       "variety": null,
       "surface": null,
@@ -20,8 +20,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Ajenjo: Artemisia Absinthium",
       "variety": null,
       "surface": null,
@@ -32,8 +30,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Ajo: Alluim Sativum",
       "variety": null,
       "surface": null,
@@ -44,8 +40,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Amancay: Alstroemeria Aurea",
       "variety": null,
       "surface": null,
@@ -56,8 +50,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Arandano: Vaccinium Corymbosum",
       "variety": null,
       "surface": null,
@@ -68,8 +60,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Arrayan Macho: Rhaphithamnus Spinosus",
       "variety": null,
       "surface": null,
@@ -80,8 +70,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Arrayan: Luma Apiculata",
       "variety": null,
       "surface": null,
@@ -92,8 +80,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Avellano: Gevuina Avellana",
       "variety": null,
       "surface": null,
@@ -104,8 +90,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Boldo: Peumus Boldus",
       "variety": null,
       "surface": null,
@@ -116,8 +100,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Bolsita del Pastor: Capsella Bursa-Pastoris",
       "variety": null,
       "surface": null,
@@ -128,8 +110,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Calendula: Calendula Officinalis",
       "variety": null,
       "surface": null,
@@ -140,8 +120,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Caléndula: Calendula officinalis",
       "variety": null,
       "surface": null,
@@ -152,8 +130,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Canelo: Drimis Winteri",
       "variety": null,
       "surface": null,
@@ -164,8 +140,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Cardo: Cynara Cardunculus",
       "variety": null,
       "surface": null,
@@ -176,8 +150,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Cerezo: Cerasus",
       "variety": null,
       "surface": null,
@@ -188,8 +160,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Chepica: Paspalum Vaginatum",
       "variety": null,
       "surface": null,
@@ -200,8 +170,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Chilco: Fuchsia Magellanica",
       "variety": null,
       "surface": null,
@@ -212,8 +180,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Colihue: Chusquea Culeou",
       "variety": null,
       "surface": null,
@@ -224,8 +190,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Congona: Citronella Congonha",
       "variety": null,
       "surface": null,
@@ -236,8 +200,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Copihue: Lapageria Rosea",
       "variety": null,
       "surface": null,
@@ -248,8 +210,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Diente de leon: Taraxacum Officinales",
       "variety": null,
       "surface": null,
@@ -260,8 +220,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Durazno: Prunus Persica",
       "variety": null,
       "surface": null,
@@ -272,8 +230,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Encino: Quercus",
       "variety": null,
       "surface": null,
@@ -284,8 +240,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Equinácea: Echinacea",
       "variety": null,
       "surface": null,
@@ -296,8 +250,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Eter: Artemisa Abrotanum",
       "variety": null,
       "surface": null,
@@ -308,8 +260,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Grosella: Rives Uva-Crispa",
       "variety": null,
       "surface": null,
@@ -320,8 +270,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Hierba del Paño: Verbascum Thapsus",
       "variety": null,
       "surface": null,
@@ -332,8 +280,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Hinojo: Foeniculum Vulgare",
       "variety": null,
       "surface": null,
@@ -344,8 +290,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Laurel: Laurelia Sempervirens",
       "variety": null,
       "surface": null,
@@ -356,8 +300,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Laurel: Laurus Nobilis",
       "variety": null,
       "surface": null,
@@ -368,8 +310,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Lavanda: Lavandula",
       "variety": null,
       "surface": null,
@@ -380,8 +320,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Limpia Plata: Equisetum Bogotense",
       "variety": null,
       "surface": null,
@@ -392,8 +330,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Lingue: Persea Lingue",
       "variety": null,
       "surface": null,
@@ -404,8 +340,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "LLanten: Plantago Mayor",
       "variety": null,
       "surface": null,
@@ -416,8 +350,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Luma: Amomyrtus Luma",
       "variety": null,
       "surface": null,
@@ -428,8 +360,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Maiten: Maytenus Boaria",
       "variety": null,
       "surface": null,
@@ -440,8 +370,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Manzanilla: Chamaemelum Movile",
       "variety": null,
       "surface": null,
@@ -452,8 +380,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Maqui: Aristotelia Chilensis",
       "variety": null,
       "surface": null,
@@ -464,8 +390,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Matico: Buddleja Globosa",
       "variety": null,
       "surface": null,
@@ -476,8 +400,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Menta Blanca: Mentha x Piperita",
       "variety": null,
       "surface": null,
@@ -488,8 +410,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Menta Negra: Mentha x Piperita",
       "variety": null,
       "surface": null,
@@ -500,8 +420,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Michay: Berberis Darwinii",
       "variety": null,
       "surface": null,
@@ -512,8 +430,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Milenrama: Achillea Millefolium",
       "variety": null,
       "surface": null,
@@ -524,8 +440,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Mora: Rubus Ulmifolius",
       "variety": null,
       "surface": null,
@@ -536,8 +450,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Murta: Ugni Molinae",
       "variety": null,
       "surface": null,
@@ -548,8 +460,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Nalca: Gunnera Tinctoria",
       "variety": null,
       "surface": null,
@@ -560,8 +470,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Ñipa: Nypa fruticans",
       "variety": null,
       "surface": null,
@@ -572,8 +480,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Ortiga: Urtica",
       "variety": null,
       "surface": null,
@@ -584,8 +490,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Palo Negro: Leptocarpha Rivularis",
       "variety": null,
       "surface": null,
@@ -596,8 +500,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Palqui: Cestrum Palqui",
       "variety": null,
       "surface": null,
@@ -608,8 +510,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Peumo: Cryptocarya Alba",
       "variety": null,
       "surface": null,
@@ -620,8 +520,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Pichi: Faviana Imbricata",
       "variety": null,
       "surface": null,
@@ -632,8 +530,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Quila: Chusquea Quila",
       "variety": null,
       "surface": null,
@@ -644,8 +540,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Quilo: Muehlenbeckia Hastulata",
       "variety": null,
       "surface": null,
@@ -656,8 +550,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Quintral de Maqui: Tristerix Tetrandrus",
       "variety": null,
       "surface": null,
@@ -668,8 +560,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Radal: Lomatia Hirsuta",
       "variety": null,
       "surface": null,
@@ -680,8 +570,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Romero: Rosmarinus Officinalis",
       "variety": null,
       "surface": null,
@@ -692,8 +580,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Rosa Mosqueta: Rosa Rubiginosa",
       "variety": null,
       "surface": null,
@@ -704,8 +590,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Rosas: Rosa SP",
       "variety": null,
       "surface": null,
@@ -716,8 +600,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Ruda: Ruta",
       "variety": null,
       "surface": null,
@@ -728,8 +610,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Salvia: Salvia Officinalis",
       "variety": null,
       "surface": null,
@@ -740,8 +620,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Sanguinaria : Sanguinaria Canadensis",
       "variety": null,
       "surface": null,
@@ -752,8 +630,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Sauco: Sambucus",
       "variety": null,
       "surface": null,
@@ -764,8 +640,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "SECUOYA: Sequoia sempervirens",
       "variety": null,
       "surface": null,
@@ -776,8 +650,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Siete Venas: Plantago Lanceolata",
       "variety": null,
       "surface": null,
@@ -788,8 +660,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "TILO: Tilia",
       "variety": null,
       "surface": null,
@@ -800,8 +670,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Tineo: Weinmannia Trichosperma",
       "variety": null,
       "surface": null,
@@ -812,8 +680,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Topinambur: Helianthus Tuberosus",
       "variety": null,
       "surface": null,
@@ -824,8 +690,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Toronguil: Melissa Officinalis",
       "variety": null,
       "surface": null,
@@ -836,8 +700,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Trevo: Dasyphyllum Diacanthoides",
       "variety": null,
       "surface": null,
@@ -848,8 +710,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Triqui Triqui: Libertia Sessiliflora",
       "variety": null,
       "surface": null,
@@ -860,8 +720,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Tusilago: Petasites Fragans",
       "variety": null,
       "surface": null,
@@ -872,8 +730,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Ulmo: Eucryphia Cordifolia",
       "variety": null,
       "surface": null,
@@ -884,8 +740,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Valeriana: Valeriana Officinalis",
       "variety": null,
       "surface": null,
@@ -896,8 +750,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Vinagrillo: Rumex Acetosella",
       "variety": null,
       "surface": null,
@@ -908,8 +760,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Yerba de San Juan: Hypericum Perforatum",
       "variety": null,
       "surface": null,
@@ -920,8 +770,6 @@
       "observations": "DESHIDRATADO"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "Zarzaparrilla: Ribes Rubrum",
       "variety": null,
       "surface": null,

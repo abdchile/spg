@@ -6,10 +6,10 @@
   "contact": "CARLOS TRONCOSO",
   "whatsapp": "56 9 88292205",
   "email": "ctroncosoga@gmail.com",
+  "organic_certification": "INICIO",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "INICIO",
-      "bd_certification": "sin certificacion BD",
       "product": "Miel",
       "variety": "No aplica",
       "surface": null,

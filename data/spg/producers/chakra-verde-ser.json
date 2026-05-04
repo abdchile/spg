@@ -6,10 +6,10 @@
   "contact": "Marcela Garcia",
   "whatsapp": "56985374849",
   "email": "marcelagarciato@gmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "DEMETER - BD",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto",
       "variety": null,
       "surface": 1,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto",
       "variety": null,
       "surface": 1.7,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto",
       "variety": null,
       "surface": 1.2,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Hortalizas",
       "variety": null,
       "surface": 0.1,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Paltos (primavera 21)",
       "variety": null,
       "surface": 0.1,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Pastura Mixta (primavera 21)",
       "variety": null,
       "surface": 0.1,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto",
       "variety": null,
       "surface": 1.45,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Hortalizas",
       "variety": null,
       "surface": 0.05,
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto",
       "variety": null,
       "surface": 1,
@@ -116,8 +100,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto",
       "variety": null,
       "surface": 0.9,
@@ -128,8 +110,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Palto Hass",
       "variety": null,
       "surface": 0.4,
@@ -140,8 +120,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Paltos y Frutales varios ( duraznos, manzanos, perales, nogales, almendros, damascos, ciruelas, naranjos, feijoa boysenberry, frambuesa)",
       "variety": null,
       "surface": 0.4,

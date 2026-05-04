@@ -6,10 +6,10 @@
   "contact": "Harry Lee /Carmen RuizTagle",
   "whatsapp": "56991406928",
   "email": "carmenruiztagleb@gmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "DEMETER - BD",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Manzano",
       "variety": "Fuji",
       "surface": null,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Manzano",
       "variety": "Royal Gala",
       "surface": null,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Manzano",
       "variety": "Verde",
       "surface": null,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Duraznero",
       "variety": "Conservero",
       "surface": null,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Damasco",
       "variety": "sin informacion",
       "surface": null,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Nogal",
       "variety": "sin informacion",
       "surface": null,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Pera",
       "variety": "sin informacion",
       "surface": null,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Ciruelo",
       "variety": "D´Agen",
       "surface": null,
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Uva",
       "variety": "Ribier",
       "surface": null,
@@ -116,8 +100,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Membrillo",
       "variety": "sin informacion",
       "surface": null,
@@ -128,8 +110,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Ajo",
       "variety": "Chileno",
       "surface": null,
@@ -140,8 +120,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Ajo",
       "variety": "Chilote",
       "surface": null,
@@ -152,8 +130,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Chalota",
       "variety": null,
       "surface": null,
@@ -164,8 +140,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Habas",
       "variety": null,
       "surface": null,
@@ -176,8 +150,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Frambuesa",
       "variety": null,
       "surface": null,
@@ -188,8 +160,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Mora",
       "variety": null,
       "surface": null,
@@ -200,8 +170,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Melon",
       "variety": "Amarillo",
       "surface": null,
@@ -212,8 +180,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Poroto",
       "variety": "Negro",
       "surface": null,
@@ -224,8 +190,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Sandia",
       "variety": null,
       "surface": null,
@@ -236,8 +200,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Tomate cherry",
       "variety": null,
       "surface": null,
@@ -248,8 +210,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Tomate Perita",
       "variety": "Perita",
       "surface": null,
@@ -260,8 +220,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Tomate",
       "variety": "Corazon de buey",
       "surface": null,
@@ -272,8 +230,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Topinambur",
       "variety": null,
       "surface": null,
@@ -284,8 +240,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Trigo",
       "variety": null,
       "surface": null,
@@ -296,8 +250,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Zapallo",
       "variety": "Butternut",
       "surface": null,
@@ -308,8 +260,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Zapallo",
       "variety": "Yamboree",
       "surface": null,
@@ -320,8 +270,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Zapallo",
       "variety": "Camote",
       "surface": null,
@@ -332,8 +280,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Menta",
       "variety": null,
       "surface": null,
@@ -344,8 +290,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Diente de leon",
       "variety": null,
       "surface": null,
@@ -356,8 +300,6 @@
       "observations": "100 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Romero",
       "variety": null,
       "surface": null,
@@ -368,8 +310,6 @@
       "observations": "300 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Cedron",
       "variety": null,
       "surface": null,
@@ -380,8 +320,6 @@
       "observations": "150 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Melissa",
       "variety": null,
       "surface": null,
@@ -392,8 +330,6 @@
       "observations": "120 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Matico",
       "variety": null,
       "surface": null,
@@ -404,8 +340,6 @@
       "observations": "150 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Llantén",
       "variety": null,
       "surface": null,
@@ -416,8 +350,6 @@
       "observations": "100 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Lavanda",
       "variety": null,
       "surface": null,
@@ -428,8 +360,6 @@
       "observations": "100 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Paico",
       "variety": null,
       "surface": null,
@@ -440,8 +370,6 @@
       "observations": "50 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Poleo Arbustivo",
       "variety": null,
       "surface": null,
@@ -452,8 +380,6 @@
       "observations": "200 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Orégano",
       "variety": null,
       "surface": null,
@@ -464,8 +390,6 @@
       "observations": "100 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Ciboulette",
       "variety": null,
       "surface": null,
@@ -476,8 +400,6 @@
       "observations": "60 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Aranto",
       "variety": null,
       "surface": null,
@@ -488,8 +410,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Cactus y suculentas",
       "variety": null,
       "surface": null,
@@ -500,8 +420,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Ruda",
       "variety": null,
       "surface": null,
@@ -512,8 +430,6 @@
       "observations": "200 atado"
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Salsa de tomates",
       "variety": "No aplica",
       "surface": null,
@@ -524,8 +440,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "pasta de ajo",
       "variety": "No aplica",
       "surface": null,
@@ -536,8 +450,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "mermelada  damasco",
       "variety": "No aplica",
       "surface": null,
@@ -548,8 +460,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "mermelada durazno",
       "variety": "No aplica",
       "surface": null,
@@ -560,8 +470,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "mermelada ciruela",
       "variety": "No aplica",
       "surface": null,
@@ -572,8 +480,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "mermelada mora",
       "variety": "No aplica",
       "surface": null,
@@ -584,8 +490,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "dulce de melon",
       "variety": "No aplica",
       "surface": null,
@@ -596,8 +500,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "mermelada membrillo",
       "variety": "No aplica",
       "surface": null,
@@ -608,8 +510,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Dulce de membrillo",
       "variety": "No aplica",
       "surface": null,
@@ -620,8 +520,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Compota de manzana",
       "variety": "No aplica",
       "surface": null,
@@ -632,8 +530,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Compota de pera",
       "variety": "No aplica",
       "surface": null,
@@ -644,8 +540,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Duraznos al jugo",
       "variety": "No aplica",
       "surface": null,
@@ -656,8 +550,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Damascos al jugo",
       "variety": "No aplica",
       "surface": null,
@@ -668,8 +560,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "membrillos al jugo",
       "variety": "No aplica",
       "surface": null,
@@ -680,8 +570,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "Manzana deshidratada",
       "variety": "No aplica",
       "surface": null,
@@ -692,8 +580,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "tomate deshidratado",
       "variety": "No aplica",
       "surface": null,
@@ -704,8 +590,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "topinambur deshidratado",
       "variety": "No aplica",
       "surface": null,
@@ -716,8 +600,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "ciruela seca",
       "variety": "No aplica",
       "surface": null,

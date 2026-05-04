@@ -6,10 +6,10 @@
   "contact": "Miguel Elissalt",
   "whatsapp": "56998792670",
   "email": "miguel.elissalt@gmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "DEMETER - BD",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "MANZANO",
       "variety": null,
       "surface": 64.41,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "PERA",
       "variety": null,
       "surface": 18.3,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "AVENA",
       "variety": null,
       "surface": 2.81,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "TRIGO",
       "variety": null,
       "surface": 1.2,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "KIWI",
       "variety": null,
       "surface": 0.5,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "FRAMBUESA",
       "variety": null,
       "surface": 0.6,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "CHACRA Y HORTALIZAS",
       "variety": null,
       "surface": 0.5,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "DEMETER - BD",
       "product": "VIVERO MANZANOS Y PERALES",
       "variety": null,
       "surface": 2.76,

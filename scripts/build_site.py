@@ -17,8 +17,6 @@ PARCEL_COLUMNS = [
     ("variety", "Variedad"),
     ("surface", "Superficie"),
     ("production", "Producción"),
-    ("organic_certification", "Cert. orgánica"),
-    ("bd_certification", "Cert. BD"),
     ("market", "Mercado"),
     ("observations", "Observaciones"),
 ]
@@ -114,6 +112,10 @@ def render_producer(producer: dict) -> str:
         fields.append(
             field("WhatsApp", f'<a href="https://wa.me/{digits}">{w}</a>')
         )
+    for key, label in [("organic_certification", "Cert. orgánica"), ("bd_certification", "Cert. BD")]:
+        v = producer.get(key)
+        if v:
+            fields.append(field(label, html.escape(str(v))))
     fields.append(field("Parcelas", str(len(parcels))))
 
     return (

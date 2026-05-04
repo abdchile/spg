@@ -6,10 +6,10 @@
   "contact": "Eduardo Galvez",
   "whatsapp": "56968579120",
   "email": "egalvezy@hotmail.com",
+  "organic_certification": "CERTIFICADO",
+  "bd_certification": "En transicion",
   "parcels": [
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Chirimoyos",
       "variety": null,
       "surface": 3,
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Papayos",
       "variety": null,
       "surface": 0.03,
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Frambuesas",
       "variety": null,
       "surface": 0.06,
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Zapallos italianos",
       "variety": null,
       "surface": 0.09,
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Praderas de mezcla forrajera",
       "variety": null,
       "surface": 1.7,
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Praderas de mezcla forrajera",
       "variety": null,
       "surface": 2,
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Alfalfa (sin sembrar aún)",
       "variety": null,
       "surface": 3,
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Alfalfa",
       "variety": null,
       "surface": 6.5,
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "CERTIFICADO",
-      "bd_certification": "En transicion",
       "product": "Alfalfa",
       "variety": null,
       "surface": 4.5,

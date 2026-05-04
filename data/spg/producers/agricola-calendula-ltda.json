@@ -6,10 +6,10 @@
   "contact": "Matthias Lischka",
   "whatsapp": "56998836130",
   "email": "mrlischka@gmail.com",
+  "organic_certification": "TRANSICION",
+  "bd_certification": "sin certificacion BD",
   "parcels": [
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ajo",
       "variety": null,
       "surface": "5 x 100",
@@ -20,8 +20,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "acelga",
       "variety": null,
       "surface": "30 plantas",
@@ -32,8 +30,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "acelga",
       "variety": null,
       "surface": "50 plantas",
@@ -44,8 +40,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "alcachofas",
       "variety": null,
       "surface": "50 plantas",
@@ -56,8 +50,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "alcachofas",
       "variety": null,
       "surface": "10 plantas",
@@ -68,8 +60,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "arandanos",
       "variety": null,
       "surface": "10 plantas",
@@ -80,8 +70,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "arvejas",
       "variety": null,
       "surface": "2 (1,5 x10)",
@@ -92,8 +80,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "arvejas",
       "variety": null,
       "surface": "2 (1,5 x10)",
@@ -104,8 +90,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "betarragas",
       "variety": null,
       "surface": "50 m2",
@@ -116,8 +100,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "boldo",
       "variety": null,
       "surface": "2 árboles",
@@ -128,8 +110,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "borraja",
       "variety": null,
       "surface": "10 plantas",
@@ -140,8 +120,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "borraja flor",
       "variety": null,
       "surface": "10 plantas",
@@ -152,8 +130,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "calendula flor",
       "variety": null,
       "surface": "20 m2",
@@ -164,8 +140,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "cedrón",
       "variety": null,
       "surface": "10 arboles",
@@ -176,8 +150,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "centeno",
       "variety": null,
       "surface": "1 há",
@@ -188,8 +160,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "cerezas",
       "variety": null,
       "surface": "5 árboles",
@@ -200,8 +170,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "chalotas",
       "variety": null,
       "surface": "3 x 5",
@@ -212,8 +180,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ciboulette",
       "variety": null,
       "surface": "20 plantas",
@@ -224,8 +190,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ciboulette",
       "variety": null,
       "surface": "20 plantas",
@@ -236,8 +200,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "cilantro",
       "variety": null,
       "surface": "16 m2",
@@ -248,8 +210,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ciruela",
       "variety": null,
       "surface": "7árboles",
@@ -260,8 +220,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ciruela",
       "variety": null,
       "surface": "10 arboles",
@@ -272,8 +230,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "espinacas",
       "variety": null,
       "surface": "20 m2",
@@ -284,8 +240,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "frambuesas",
       "variety": null,
       "surface": "4 x (28 mts)",
@@ -296,8 +250,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "frambuesas",
       "variety": null,
       "surface": "3 x (45 mts)",
@@ -308,8 +260,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "frambuesas",
       "variety": null,
       "surface": "1 x 15 mts",
@@ -320,8 +270,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "grosellas",
       "variety": null,
       "surface": "5 plantas",
@@ -332,8 +280,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "habas",
       "variety": null,
       "surface": "2 x 3",
@@ -344,8 +290,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "habas",
       "variety": null,
       "surface": "3 x 3",
@@ -356,8 +300,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "hinojo semillas",
       "variety": null,
       "surface": "5 plantas",
@@ -368,8 +310,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "hinojo papa",
       "variety": null,
       "surface": "50 plantas",
@@ -380,8 +320,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "kale",
       "variety": null,
       "surface": "40 plantas",
@@ -392,8 +330,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "kale morada",
       "variety": null,
       "surface": "112 plantas",
@@ -404,8 +340,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "kale",
       "variety": null,
       "surface": "100 plantas",
@@ -416,8 +350,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "kale verde",
       "variety": null,
       "surface": "50 plantas",
@@ -428,8 +360,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "laurel cocina",
       "variety": null,
       "surface": "5 arboles",
@@ -440,8 +370,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "lavanda",
       "variety": null,
       "surface": "10 plantas",
@@ -452,8 +380,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "lechugas",
       "variety": null,
       "surface": "1000 plantas",
@@ -464,8 +390,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "lechugas",
       "variety": null,
       "surface": "200 plantas",
@@ -476,8 +400,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "lechugas",
       "variety": null,
       "surface": "300 plantas",
@@ -488,8 +410,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "lenteja rosada",
       "variety": null,
       "surface": "1 x 2 mts",
@@ -500,8 +420,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "lenteja rosada",
       "variety": null,
       "surface": "5 x 100 mts",
@@ -512,8 +430,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "maggi",
       "variety": null,
       "surface": "15 plantas",
@@ -524,8 +440,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "manzanas",
       "variety": null,
       "surface": "20 arboles",
@@ -536,8 +450,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "manzanas",
       "variety": null,
       "surface": "75 arboles",
@@ -548,8 +460,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "matico",
       "variety": null,
       "surface": "3 arboles",
@@ -560,8 +470,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "matuerzo",
       "variety": null,
       "surface": "5 (2 x 3)",
@@ -572,8 +480,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "matuerzo",
       "variety": null,
       "surface": "3 (2 x 3)",
@@ -584,8 +490,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "melisa",
       "variety": null,
       "surface": "20 plantas",
@@ -596,8 +500,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "menta",
       "variety": null,
       "surface": "20 m2",
@@ -608,8 +510,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "mosquetas",
       "variety": null,
       "surface": "4 arbustos",
@@ -620,8 +520,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "murtas",
       "variety": null,
       "surface": "8 arbustos",
@@ -632,8 +530,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "murtas",
       "variety": null,
       "surface": "15 arbustos",
@@ -644,8 +540,6 @@
       "observations": "3 kilos por arbusto"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "murtas",
       "variety": null,
       "surface": "55 arbustos",
@@ -656,8 +550,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "narcisos (flores)",
       "variety": null,
       "surface": "50 bulbos",
@@ -668,8 +560,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "oca",
       "variety": null,
       "surface": "10 m2",
@@ -680,8 +570,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ortigas",
       "variety": null,
       "surface": "20 m2",
@@ -692,8 +580,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "poleo",
       "variety": null,
       "surface": "10 planta",
@@ -704,8 +590,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "papa",
       "variety": null,
       "surface": "3 x 10",
@@ -716,8 +600,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "papa nativa",
       "variety": null,
       "surface": "0,06 há",
@@ -728,8 +610,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "papa nativa",
       "variety": null,
       "surface": "5 x 10",
@@ -740,8 +620,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "pepinos",
       "variety": null,
       "surface": "11 plantas",
@@ -752,8 +630,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "peras",
       "variety": null,
       "surface": "1 árbol",
@@ -764,8 +640,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "peras asiaticas",
       "variety": null,
       "surface": "1 árbol",
@@ -776,8 +650,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "perejil",
       "variety": null,
       "surface": "20 plantas",
@@ -788,8 +660,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "porotos",
       "variety": null,
       "surface": "5 (2 x 3)",
@@ -800,8 +670,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "portulak",
       "variety": null,
       "surface": "1 x 6",
@@ -812,8 +680,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "praderas",
       "variety": null,
       "surface": "120 há",
@@ -824,8 +690,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "puerro",
       "variety": null,
       "surface": "300 plantas",
@@ -836,8 +700,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "rabanitos",
       "variety": null,
       "surface": "10 m2",
@@ -848,8 +710,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "raiz picante",
       "variety": null,
       "surface": "30 plantas",
@@ -860,8 +720,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ranunculos (flores)",
       "variety": null,
       "surface": "50 bulbos",
@@ -872,8 +730,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "repollo blanco",
       "variety": null,
       "surface": "100 plantas",
@@ -884,8 +740,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "repollo blanco",
       "variety": null,
       "surface": "100 plantas",
@@ -896,8 +750,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "repollo morado",
       "variety": null,
       "surface": "100 plantas",
@@ -908,8 +760,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "repollo morado",
       "variety": null,
       "surface": "100 plantas",
@@ -920,8 +770,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "romero",
       "variety": null,
       "surface": "6 plantas",
@@ -932,8 +780,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "rúcula",
       "variety": null,
       "surface": "1 x 3",
@@ -944,8 +790,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ruibarbo",
       "variety": null,
       "surface": "40 plantas",
@@ -956,8 +800,6 @@
       "observations": "30 varitas por planta"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "salvia",
       "variety": null,
       "surface": "10 plantas",
@@ -968,8 +810,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "sauco",
       "variety": null,
       "surface": "20 arbustos",
@@ -980,8 +820,6 @@
       "observations": "5 kilos por arbusto"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "tilo",
       "variety": null,
       "surface": "1 arbol",
@@ -992,8 +830,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "topinambur",
       "variety": null,
       "surface": "50 m2",
@@ -1004,8 +840,6 @@
       "observations": "1,5 kilos por m2"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "topinambur",
       "variety": null,
       "surface": "30 m2",
@@ -1016,8 +850,6 @@
       "observations": "1,5 kilos por m2"
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "tomate",
       "variety": null,
       "surface": "5 x 8",
@@ -1028,8 +860,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "trigo",
       "variety": null,
       "surface": "1 há",
@@ -1040,8 +870,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "vinagrillo",
       "variety": null,
       "surface": "3 x 3",
@@ -1052,8 +880,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "zanahorias",
       "variety": null,
       "surface": "0,2há",
@@ -1064,8 +890,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "zapallo",
       "variety": null,
       "surface": "30 plantas",
@@ -1076,8 +900,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "zapallo italiano",
       "variety": null,
       "surface": "30 plantas",
@@ -1088,8 +910,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "zarzaparrilla negra",
       "variety": null,
       "surface": "5 plantas",
@@ -1100,8 +920,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "ovejas",
       "variety": null,
       "surface": 450,
@@ -1112,8 +930,6 @@
       "observations": null
     },
     {
-      "organic_certification": "TRANSICION",
-      "bd_certification": "sin certificacion BD",
       "product": "vacunos",
       "variety": null,
       "surface": 202,
