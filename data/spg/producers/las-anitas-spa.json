@@ -1,0 +1,23 @@
+{
+  "id": 18,
+  "country": "CHILE",
+  "city": "TEMUCO",
+  "name": "LAS ANITAS SPA",
+  "contact": "PAULA QUINCHEL",
+  "whatsapp": "5694209 1333",
+  "email": "paula.quinchel@gmail.com",
+  "parcels": [
+    {
+      "organic_certification": "TRANSICION",
+      "bd_certification": "sin certificacion BD",
+      "product": "Maqui",
+      "variety": "2 ha",
+      "surface": 3000,
+      "surface_unit": "m2",
+      "production": null,
+      "production_unit": null,
+      "market": "Local",
+      "observations": null
+    }
+  ]
+}

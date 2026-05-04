@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "country": "Chile",
+  "city": "Futrono",
+  "name": "TRUFEROS GRAU",
+  "contact": "Jordi Grau",
+  "whatsapp": "56997016562",
+  "email": "jordi.grau@truferosgrau.cl",
+  "parcels": [
+    {
+      "organic_certification": "TRANSICION",
+      "bd_certification": "sin certificacion BD",
+      "product": "Trufas",
+      "variety": null,
+      "surface": 10,
+      "surface_unit": null,
+      "production": null,
+      "production_unit": null,
+      "market": "Local",
+      "observations": null
+    }
+  ]
+}

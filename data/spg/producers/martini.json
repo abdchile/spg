@@ -1,0 +1,47 @@
+{
+  "id": 6,
+  "country": "Chile",
+  "city": "Coñaripe",
+  "name": "MARTINI",
+  "contact": "Patricio Martini",
+  "whatsapp": "56993219778",
+  "email": "elaihue@gmail.com",
+  "parcels": [
+    {
+      "organic_certification": "CERTIFICADO",
+      "bd_certification": "DEMETER - BD",
+      "product": "Arándanos",
+      "variety": null,
+      "surface": 25.689999999999998,
+      "surface_unit": null,
+      "production": null,
+      "production_unit": null,
+      "market": "Exportacion",
+      "observations": null
+    },
+    {
+      "organic_certification": "CERTIFICADO",
+      "bd_certification": "DEMETER - BD",
+      "product": "Plantas medicinales",
+      "variety": null,
+      "surface": 2.9,
+      "surface_unit": null,
+      "production": null,
+      "production_unit": null,
+      "market": "Exportacion",
+      "observations": null
+    },
+    {
+      "organic_certification": "CERTIFICADO",
+      "bd_certification": "DEMETER - BD",
+      "product": "Bosque nativo",
+      "variety": null,
+      "surface": 2,
+      "surface_unit": null,
+      "production": null,
+      "production_unit": null,
+      "market": "Exportacion",
+      "observations": null
+    }
+  ]
+}

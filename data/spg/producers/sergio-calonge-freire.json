@@ -1,0 +1,47 @@
+{
+  "id": 11,
+  "country": "Chile",
+  "city": "BULNES",
+  "name": "SERGIO CALONGE FREIRE",
+  "contact": "SERGIO CALONGE FREIRE",
+  "whatsapp": "56 9 8807 4288",
+  "email": "scalongefreire@gmail.com",
+  "parcels": [
+    {
+      "organic_certification": "TRANSICION",
+      "bd_certification": "sin certificacion BD",
+      "product": "Alfalfa - 350 ACB",
+      "variety": null,
+      "surface": "10 ha",
+      "surface_unit": "HA",
+      "production": null,
+      "production_unit": null,
+      "market": null,
+      "observations": null
+    },
+    {
+      "organic_certification": "TRANSICION",
+      "bd_certification": "sin certificacion BD",
+      "product": "Maiz",
+      "variety": null,
+      "surface": null,
+      "surface_unit": null,
+      "production": null,
+      "production_unit": null,
+      "market": null,
+      "observations": null
+    },
+    {
+      "organic_certification": "TRANSICION",
+      "bd_certification": "sin certificacion BD",
+      "product": "Trigo - Candeal",
+      "variety": null,
+      "surface": "9 ha",
+      "surface_unit": "HA",
+      "production": null,
+      "production_unit": null,
+      "market": null,
+      "observations": null
+    }
+  ]
+}
